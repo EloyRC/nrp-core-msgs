@@ -1,0 +1,1 @@
+**NOTE:** This repository was transferred from the original nrp-core reposistory *https://bitbucket.org/hbpneurorobotics/nrp-core-msgs* at the time of the official end date of the Human Brain Project, 30/09/2023
